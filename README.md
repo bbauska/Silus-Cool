@@ -1,2 +1,2 @@
-# Silus-Cool
-Silus' Cool New Website. Requests name, e-mail &amp; click-box to agree. Nothing saved here.
+# Silus-cool
+Cool codepen instrument to get user name and e-mail address. Take a look at Silus-cool.bauska.org.
