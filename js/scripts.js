@@ -1,4 +1,4 @@
-/* js/scripts.js of silus-cool.bauska.org */
+/* js/scripts.js of Silus-Cool for Silus-Cool.bauska.org */
 const containerEl = document.querySelector('.container');
 const checkboxEl = document.querySelector('.form-container .form-row input[type="checkbox"]');
 const nameEl = document.querySelector('.form-container .form-row input[name="name"]');
